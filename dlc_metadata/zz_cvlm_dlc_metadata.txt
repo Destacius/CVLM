@@ -1,0 +1,7 @@
+﻿dlc_cvlm = {
+	name = "CVLM"
+	steam_id = "529340"
+	type = minor
+	priority = 0
+	theme_provider = no
+}
