@@ -1,2 +1,3 @@
-# CVLM
- Mod for Victoria 3, a strategy game developed by Paradox Interactive
+# CVLM - Immersive Mod for Colonial Government
+
+Steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2937525099
